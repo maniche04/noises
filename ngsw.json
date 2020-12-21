@@ -1,0 +1,91 @@
+{
+  "configVersion": 1,
+  "timestamp": 1608511715784,
+  "index": "/noises/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/noises/favicon.ico",
+        "/noises/index.html",
+        "/noises/main.69978678dbb50b40bbd8.js",
+        "/noises/manifest.webmanifest",
+        "/noises/polyfills.b3b05dce4f05c03b56a3.js",
+        "/noises/runtime.0e49e2b53282f40c8925.js",
+        "/noises/styles.a8ceb5d7796dd1d8fdbd.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/noises/assets/icons/icon-128x128.png",
+        "/noises/assets/icons/icon-144x144.png",
+        "/noises/assets/icons/icon-152x152.png",
+        "/noises/assets/icons/icon-192x192.png",
+        "/noises/assets/icons/icon-384x384.png",
+        "/noises/assets/icons/icon-512x512.png",
+        "/noises/assets/icons/icon-72x72.png",
+        "/noises/assets/icons/icon-96x96.png",
+        "/noises/assets/play-button.png",
+        "/noises/assets/shush.mp3",
+        "/noises/assets/shush.png",
+        "/noises/assets/white.mp3",
+        "/noises/assets/white_noise.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/noises/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/noises/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/noises/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/noises/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/noises/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/noises/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/noises/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/noises/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/noises/assets/play-button.png": "fcb91421940cbedf7b69887ceacd870c55f9e713",
+    "/noises/assets/shush.mp3": "053520b839aa3e0374eb6fdffafa26d62c8acf4a",
+    "/noises/assets/shush.png": "908cab1457139e0166408d502e927894df23e87a",
+    "/noises/assets/white.mp3": "9db433d2a94575bee511a63080e9075110dce770",
+    "/noises/assets/white_noise.jpg": "b53ca340c96a76d3e298093e46e4b7d09900dc3c",
+    "/noises/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/noises/index.html": "f91c94db1e892f2fbe4c1e93c1848ed2bdbcbdfc",
+    "/noises/main.69978678dbb50b40bbd8.js": "a5f36ad1820bdd1c2de0ad315d74af8973e51eb7",
+    "/noises/manifest.webmanifest": "db7eecc8fcd9a7d9daee4d80928edb7a858fb127",
+    "/noises/polyfills.b3b05dce4f05c03b56a3.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
+    "/noises/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/noises/styles.a8ceb5d7796dd1d8fdbd.css": "d27d6e361a69d6bc50f44346614b4e5f77102882"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
