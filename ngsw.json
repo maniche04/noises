@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1608617135521,
+  "timestamp": 1608698678546,
   "index": "/noises/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/noises/favicon.ico",
         "/noises/index.html",
-        "/noises/main.8b95ea0fbec50f15d714.js",
+        "/noises/main.c8a52a2f58c6b2766078.js",
         "/noises/manifest.webmanifest",
         "/noises/polyfills.b3b05dce4f05c03b56a3.js",
         "/noises/runtime.0e49e2b53282f40c8925.js",
@@ -29,6 +29,12 @@
         "ignoreVary": true
       },
       "urls": [
+        "/noises/assets/bakhra.wav",
+        "/noises/assets/biralo.mp3",
+        "/noises/assets/cat.png",
+        "/noises/assets/goat.png",
+        "/noises/assets/guten.mp3",
+        "/noises/assets/guten.png",
         "/noises/assets/icons/icon-128x128.png",
         "/noises/assets/icons/icon-144x144.png",
         "/noises/assets/icons/icon-152x152.png",
@@ -52,6 +58,12 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/noises/assets/bakhra.wav": "f4880714741a5ba9bfe57f748e52d762858f875c",
+    "/noises/assets/biralo.mp3": "2c7e5a6575c352a9a3039b8e83b51d35a1ded160",
+    "/noises/assets/cat.png": "da9152e763ec009a28aa7907eafc76e5d8726705",
+    "/noises/assets/goat.png": "0be777e9c8ca81ec1b34bb1ac3a22f85735a7286",
+    "/noises/assets/guten.mp3": "e60ec7edb11df0ebc077bb5402ebf498b4c3c6b1",
+    "/noises/assets/guten.png": "1b4f188b28245b80cbbaeac138b1ccd27c02dff8",
     "/noises/assets/icons/icon-128x128.png": "a7b139f4b5103e75083224412a1874e22ad3ee8e",
     "/noises/assets/icons/icon-144x144.png": "419600119412d7edbeab54a3f8e77bbc86e716df",
     "/noises/assets/icons/icon-152x152.png": "d2c5cd7f0cb9a611054e5bfb4609c5569787bf21",
@@ -70,8 +82,8 @@
     "/noises/assets/white.wav": "2fa303141f8c74e55dd67e7cccc216249d69af75",
     "/noises/assets/white_noise.jpg": "b53ca340c96a76d3e298093e46e4b7d09900dc3c",
     "/noises/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/noises/index.html": "d1194c6776e72454b8a6d307bcbc142067f88d54",
-    "/noises/main.8b95ea0fbec50f15d714.js": "207d64a0234f65c2cc94499c4f4c817203fce999",
+    "/noises/index.html": "45c9053bc764b541bfbbd9c338c7c880c22d7fa6",
+    "/noises/main.c8a52a2f58c6b2766078.js": "898e6274c496ef8a456fb98ae1301736f9fa662e",
     "/noises/manifest.webmanifest": "6072a642187717cb6510fc0b55a54f7776c3b3d2",
     "/noises/polyfills.b3b05dce4f05c03b56a3.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
     "/noises/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
